@@ -1,16 +1,19 @@
-# Final-Project-
+# Final Project: Initial Project Proposal
 
 **Project Title**
 
 Understanding Stress Factors Among University Students
 
+
 **Problem**
 
 University students are increasingly reporting high levels of stress, which can negatively impact academic performance, physical health, and overall well-being.
 
+
 **Why It Matters**
 
 Unmanaged stress can lead to burnout, anxiety, and long-term mental health issues. Universities and policymakers need clearer insights into what drives student stress in order to respond effectively.
+
 
 **Who Is Affected**
 
@@ -31,6 +34,7 @@ Stress Level Dataset
 Student Stress Factors 
 Mental Health Survey
 Student Mental Health
+
 
 **Data (Initial Idea)**
 
