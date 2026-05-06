@@ -15,30 +15,51 @@ Unmanaged stress can lead to burnout, anxiety, and long-term mental health issue
 **Who Is Affected**
 
 University students
+
 Educational institutions
+
 Mental health support services
+
 
 **Goal**
 
 To identify key factors (such as sleep, study time, social activity, and lifestyle habits) that are associated with higher stress levels among students.
 
+**Raw Dataset** (Kaggle)
+Student Academic Stress
+Stress Level Dataset
+Student Stress Factors 
+Mental Health Survey
+Student Mental Health
+
 **Data (Initial Idea)**
 
 Possible datasets:
+
 Student mental health surveys 
+
 Data including variables like:
+
 Sleep hours
+
 Study hours
+
 GPA
+
 Social interaction
+
 Stress/anxiety levels
+
 
 **Expected Outcome**
 
 The project aims to uncover patterns such as:
 
 - Whether lack of sleep strongly correlates with stress
+  
 - Whether academic workload is the primary driver
+  
 - Whether insufficient sleep is strongly associated with higher stress levels, and to quantify that relationship.
+  
   
 These insights can help universities design better student support strategies.
