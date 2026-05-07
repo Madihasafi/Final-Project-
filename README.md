@@ -6,7 +6,7 @@
 
 ## 📌 The Problem
 
-University students today face mounting pressure from academic workloads, social expectations, financial concerns, and lifestyle demands. Stress has become one of the most reported mental health concerns among students globally — yet universities often lack clear, data-backed insights into *what* is driving that stress and *how* it connects to academic outcomes.
+University students today face mounting pressure from academic workloads, social expectations, financial concerns, and lifestyle demands. Stress has become one of the most reported mental health concerns among students globally, yet universities often lack clear, data-backed insights into *what* is driving that stress and *how* it connects to academic outcomes.
 
 **Who is affected?**
 - University and college students
@@ -15,13 +15,13 @@ University students today face mounting pressure from academic workloads, social
 - Policymakers shaping higher education welfare programs
 
 **Why does this matter now?**  
-Post-pandemic academic environments have intensified student stress. Burnout, anxiety, and declining academic performance are increasingly documented — but interventions remain generic. Targeted, evidence-based recommendations require understanding the actual drivers: Is it sleep deprivation? Study overload? Social isolation? This project aims to find out.
+Post-pandemic academic environments have intensified student stress. Burnout, anxiety, and declining academic performance are increasingly documented, but interventions remain generic. Targeted, evidence-based recommendations require understanding the actual drivers: Is it sleep deprivation? Study overload? Social isolation? This project aims to find out.
 
 ---
 
 ## 🎯 Project Goal
 
-To identify and quantify the key lifestyle and academic factors — such as sleep hours, study time, GPA, and social activity — that are most strongly associated with higher stress levels among university students.
+To identify and quantify the key lifestyle and academic factors — such as sleep hours, study time, GPA, and social activity, that are most strongly associated with higher stress levels among university students.
 
 **Core question:**  
 *"Which factors most significantly predict higher stress in university students, and what practical steps can institutions take in response?"*
@@ -40,7 +40,7 @@ This project combines **five publicly available datasets** from Kaggle to build 
 | 4 | Mental Health Survey | Kaggle | gender,	age,	university,	degree_level,	degree_major,	academic_year,	cgpa,	residential_status,	campus_discrimination,	sports_engagement,	average_sleep,	study_satisfaction,	academic_workload, 	academic_pressure,	financial_concerns,	social_relationships,	depression,	anxiety,	Self-Efficacy,	isolation,	future_insecurity,	stress_relief_activities,	Mental-Health |
 | 5 | Student Mental Health | Kaggle | Timestamp,	Choose your gender,	Age,	What is your course?,	Your current year of Study,	What is your CGPA?,	Marital status,	Do you have Depression?,	Do you have Anxiety?,	Do you have Panic attack?,	Did you seek any specialist for a treatment? |
 
-> **Next step:** These five datasets will be cleaned and merged into a single unified dataset with consistent variable naming, handled missing values, and normalized scales — ready for analysis.
+> **Next step:** These five datasets will be cleaned and merged into a single unified dataset with consistent variable naming, handled missing values, and normalized scales; ready for analysis.
 
 **Key variables of interest:**
 | Variable                     | Meaning              |
@@ -100,9 +100,9 @@ The analysis aims to uncover patterns such as:
 
 ## 🗺️ Roadmap
 
-- [x] **Step 1 — Project Proposal:** Define problem, identify datasets, set up repository
-- [ ] **Step 2 — Draft Version:** Clean and merge all 5 datasets; initial EDA and first visualizations
-- [ ] **Step 3 — Final Presentation:** Full analysis, key insights, actionable recommendations, 5-minute presentation
+- [x] **Step 1 - Project Proposal:** Define problem, identify datasets, set up repository
+- [ ] **Step 2 - Draft Version:** Clean and merge all 5 datasets; initial EDA and first visualizations
+- [ ] **Step 3 - Final Presentation:** Full analysis, key insights, actionable recommendations, 5-minute presentation
 
 ---
 
@@ -110,9 +110,9 @@ The analysis aims to uncover patterns such as:
 
 This analysis is designed to be useful for:
 
-- **University student wellness offices** — to redesign support programs around actual stress drivers
-- **Academic advisors** — to identify at-risk students earlier
-- **Policymakers** — to allocate mental health resources more effectively
+- **University student wellness offices** : to redesign support programs around actual stress drivers
+- **Academic advisors** : to identify at-risk students earlier
+- **Policymakers** : to allocate mental health resources more effectively
 
 If the findings confirm that sleep deprivation and heavy academic workloads are the dominant stressors, universities could implement evidence-backed interventions: adjusted exam schedules, mandatory wellness breaks, and sleep health campaigns.
 
